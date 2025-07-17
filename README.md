@@ -43,4 +43,4 @@ Every piece in this app has a midlife crisis — especially pawns when they real
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by **Nithul K**.
+Built with ❤️ by **Nithul**.
